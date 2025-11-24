@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Player",
+    "Icon": "Play",
+    "Type": "Programa",
+    "Path": "player.exe",
+    "style": "box",
+    "background": "black",
+    "color": "#fff"
+  },
+  {
+    "Name": "Prompt Voice",
+    "Icon": "Mic",
+    "Type": "Programa",
+    "Path": "prompt-voice.exe",
+    "style": "box",
+    "background": "Red",
+    "color": "#fff"
+  },
+  {
+    "Name": "Wi-Fi",
+    "Icon": "Wifi",
+    "Type": "Link",
+    "Path": "https://config.wifi",
+    "style": "box",
+    "background": "#333",
+    "color": "#fff"
+  },
+  {
+    "Name": "Configurações",
+    "Icon": "Settings",
+    "Type": "Programa",
+    "Path": "settings.exe",
+    "style": "retangle-vertical",
+    "background": "#333",
+    "color": "#fff"
+  },
+  {
+    "Name": "Ponto de Vendas",
+    "Icon": "ShoppingCart",
+    "Type": "Programa",
+    "Path": "pdv.exe",
+    "style": "box",
+    "background": "blue",
+    "color": "#fff"
+  },
+  {
+    "Name": "Ticket",
+    "Icon": "Ticket",
+    "Type": "Programa",
+    "Path": "ticket.exe",
+    "style": "box",
+    "background": "green",
+    "color": "#fff"
+  },
+  {
+    "Name": "Confirmar Presença",
+    "Icon": "QrCode",
+    "Type": "Link",
+    "Path": "https://presenca.app",
+    "style": "box",
+    "background": "purple",
+    "color": "#fff"
+  },
+  {
+    "Name": "Confirmar Presença",
+    "Icon": "QrCode",
+    "Type": "ExternalLink",
+    "Path": "https://presenca.app",
+    "style": "box",
+    "background": "purple",
+    "color": "#fff"
+  }
+]
